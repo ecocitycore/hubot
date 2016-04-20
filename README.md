@@ -1,4 +1,4 @@
-#ecovotu Best Practices Bot
+#ecovotu best practices bot
 
 Ecocity.com and Voturadio.com are using this customized version of Hubot and maintaining this free
 codebase to all users of the two systems. This is the core codebase from hubot. We reccomend that
