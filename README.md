@@ -5,8 +5,9 @@ codebase to all users of the two systems. This is the core codebase from hubot. 
 some coders who wish to sell plugins or keep private profiles create a bitbucket.org account and maintain
 a versioned codebase there for free, or use your own git, svn, .. server.
 
+\#Ecovotu best practices bot is designed to support notification to free university class participants, creative career advice, learning opportunity networking, independant learning 'geared toward certification' programs.
 
-Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
+\#Ecovotu uses the Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
 cool. He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
 
